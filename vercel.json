@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/shopeecal", "destination": "/index.html" },
+    { "source": "/shopeecal/(.*)", "destination": "/index.html" }
+  ]
+}
